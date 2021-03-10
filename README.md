@@ -1,6 +1,6 @@
 ## A slightly more complex Discord.py bot
 
-All these tutorials give you nothing bot only code that is just.. too simple..
+All these tutorials give you nothing but only code that is just.. too simple..
 
 This code is a bit more complex and i also have something else to offer...
 A cat pic!! (Setup comes after the cat pic dnw)
